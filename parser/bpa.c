@@ -34,7 +34,7 @@
 #include <sys/types.h>
 #include <netinet/in.h>
 
-#include <bluetooth/bluetooth.h>
+#include "bluetooth/bluetooth.h"
 #include <bluetooth/hci.h>
 
 #include "parser.h"
